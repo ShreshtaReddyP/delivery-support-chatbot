@@ -1,0 +1,21 @@
+# Secrets & Environment Variables (DO NOT PUSH)
+.env
+*.env
+
+# Python Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
